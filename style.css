@@ -1,0 +1,37 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 20px;
+	margin: 0 auto;
+	align-items: center;
+}
+.row {
+
+	display: flex;
+	justify-content: space-around;
+    align-items: center;
+	padding: 30px;
+	margin-bottom: 10px;
+}
+.row-1 {
+	background-color: #38b1c5;
+}
+.row-2 {
+	background-color: #d2b4c6;
+}
+.row-3 {
+	background-color: #f1f1f1;
+}
+.block {
+	border: 5px solid #2da44e;
+	margin: 15px;
+	padding: 10px;
+	background-color: white;
+	border-radius: 8px;
+}
+.octocat {
+	height: auto;
+	display: block;
+	width: 200px;
+}
