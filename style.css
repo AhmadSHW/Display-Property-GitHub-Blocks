@@ -13,6 +13,7 @@
     align-items: center;
 	padding: 30px;
 	margin-bottom: 10px;
+	width: 100%;
 }
 .row-1 {
 	background-color: #38b1c5;
@@ -31,7 +32,7 @@
 	border-radius: 8px;
 }
 .octocat {
-	height: auto;
+	height: 200px;
 	display: block;
 	width: 200px;
 }
